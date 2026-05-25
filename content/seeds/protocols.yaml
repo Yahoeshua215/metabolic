@@ -1,0 +1,60 @@
+- slug: beginner-fasting
+  title: Beginner Fasting
+  audience: Adults new to fasting who want a non-extreme start.
+  difficulty: beginner
+  summary: A gentle progression from no evening snacking to a sustainable fasting window.
+  status: published
+  body_md: This protocol is designed to create rhythm before intensity. It favors adherence, hydration, protein adequacy, and medical common sense.
+  topics: [beginner-fasting, coffee-during-fasting, protein-after-50]
+  steps:
+    - title: Establish a 12-hour overnight fast
+      body_md: Finish dinner, avoid after-dinner snacks, and delay breakfast until 12 hours have passed.
+    - title: "Move to 14:10 only if energy is stable"
+      body_md: Extend gradually and keep meals protein-forward.
+    - title: Keep coffee simple
+      body_md: Use black coffee or unsweetened tea during the fasting window when possible.
+- slug: improving-insulin-sensitivity
+  title: Improving Insulin Sensitivity
+  audience: People who want steadier energy and better glucose control.
+  difficulty: beginner
+  summary: "Four repeatable levers — protein-forward meals, fewer refined carbs, walking, and strength."
+  status: published
+  body_md: This protocol avoids novelty and focuses on habits that show up repeatedly across expert viewpoints.
+  topics: [insulin-sensitivity, walking-after-meals, protein-after-50]
+  steps:
+    - title: Build meals around protein and whole foods
+      body_md: Start with protein and fiber before starches or sweets.
+    - title: Walk after the highest-carb meal
+      body_md: Ten to twenty minutes is enough to start learning your response.
+    - title: Add two strength sessions weekly
+      body_md: Muscle is one of the most important glucose sinks.
+- slug: healthy-aging
+  title: Healthy Aging
+  audience: Adults 40 to 65 focused on durable healthspan.
+  difficulty: intermediate
+  summary: A calm, non-hacky foundation for metabolic health and aging well.
+  status: published
+  body_md: Healthy aging is built through compounding habits and risk awareness, not constant optimization.
+  topics: [healthy-aging, protein-after-50, insulin-sensitivity]
+  steps:
+    - title: Preserve muscle
+      body_md: Prioritize protein and progressive resistance training.
+    - title: Watch metabolic markers
+      body_md: Track waist trend, blood pressure, glucose, lipids, and sleep.
+    - title: Reduce processed-food exposure
+      body_md: Improve food quality before adding advanced interventions.
+- slug: stable-energy
+  title: Stable Energy
+  audience: People dealing with afternoon crashes or cravings.
+  difficulty: beginner
+  summary: A simple protocol for steadier meals, glucose response, and sleep-aware energy.
+  status: published
+  body_md: Energy stability often improves when glucose swings, sleep debt, and low-protein meals are addressed together.
+  topics: [reducing-cravings, walking-after-meals, coffee-during-fasting]
+  steps:
+    - title: Upgrade the first meal
+      body_md: Include protein, fiber, and minimally processed foods.
+    - title: Walk after lunch or dinner
+      body_md: Use movement to blunt the largest glucose swing of the day.
+    - title: Stop caffeine early
+      body_md: Protect sleep by keeping caffeine away from late afternoon and evening.

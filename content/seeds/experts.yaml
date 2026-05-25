@@ -1,0 +1,56 @@
+- slug: jason-fung
+  name: Jason Fung
+  title: Nephrologist and fasting author
+  is_featured: true
+  major_themes: [fasting, insulin resistance, time-restricted eating]
+  philosophy_summary_md: Focuses on insulin, fasting windows, and reducing refined carbohydrates as practical levers for metabolic health.
+  fasting_position_md: Generally supportive of fasting as a therapeutic tool when matched to context and medical supervision.
+  supplement_position_md: Supplements are secondary to fasting, food quality, and insulin reduction.
+- slug: sten-ekberg
+  name: Sten Ekberg
+  title: Holistic physician and educator
+  is_featured: true
+  major_themes: [insulin resistance, low carb, whole foods]
+  philosophy_summary_md: Emphasizes whole foods, insulin control, stress, and metabolic flexibility.
+  fasting_position_md: Supportive of intermittent fasting and longer fasts when gradually adopted.
+  supplement_position_md: Cautious; prefers fundamentals before supplement stacks.
+- slug: pradip-jamnadas
+  name: Pradip Jamnadas
+  title: Cardiologist
+  is_featured: true
+  major_themes: [fasting, inflammation, cardiovascular risk]
+  philosophy_summary_md: Connects fasting, inflammation, insulin, and cardiovascular disease prevention.
+  fasting_position_md: Strongly supportive of fasting as a metabolic reset when clinically appropriate.
+  supplement_position_md: Favors targeted use only after diet and fasting habits are addressed.
+- slug: ben-bikman
+  name: Ben Bikman
+  title: Insulin resistance researcher
+  is_featured: true
+  major_themes: [insulin resistance, protein, metabolic science]
+  philosophy_summary_md: Explains metabolic health through insulin, energy partitioning, and protein adequacy.
+  fasting_position_md: Supportive, but frames fasting as one tool among diet, protein, and activity.
+  supplement_position_md: Context-dependent; evidence and mechanism matter.
+- slug: peter-attia
+  name: Peter Attia
+  title: Longevity physician
+  is_featured: true
+  major_themes: [longevity, muscle, exercise, risk reduction]
+  philosophy_summary_md: Prioritizes lifespan, healthspan, muscle, cardiorespiratory fitness, and biomarkers.
+  fasting_position_md: More cautious than fasting-first experts, especially where muscle preservation is a concern.
+  supplement_position_md: Evidence-aware and biomarker-driven.
+- slug: mark-hyman
+  name: Mark Hyman
+  title: Functional medicine physician
+  is_featured: true
+  major_themes: [food quality, inflammation, metabolic health]
+  philosophy_summary_md: Emphasizes food quality, inflammation reduction, and practical lifestyle medicine.
+  fasting_position_md: Supportive of time-restricted eating, with emphasis on food quality.
+  supplement_position_md: More open to supplements when targeted and quality-controlled.
+- slug: glucose-goddess
+  name: Glucose Goddess
+  title: Glucose educator and author
+  is_featured: true
+  major_themes: [glucose control, meal order, walking after meals]
+  philosophy_summary_md: Translates glucose science into simple behavioral tactics for steadier post-meal response.
+  fasting_position_md: Not primarily fasting-centered; emphasizes glucose curve management.
+  supplement_position_md: Focuses more on food order, vinegar, and movement than broad supplementation.
