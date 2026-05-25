@@ -1,9 +1,9 @@
-import { createSupabaseServerClient } from "./supabase/server";
+import { createSupabaseAnonClient } from "./supabase/server";
 import { getSeedData } from "./seed-data";
 import type { Expert, Protocol, TaxonomyTag, Topic } from "./types";
 
 export async function getTopics(): Promise<Topic[]> {
-  const supabase = await createSupabaseServerClient();
+  const supabase = createSupabaseAnonClient();
   if (!supabase) return getSeedData().topics;
 
   const { data, error } = await supabase
@@ -29,7 +29,7 @@ export async function getTopic(slug: string): Promise<Topic | null> {
 }
 
 export async function getExperts(): Promise<Expert[]> {
-  const supabase = await createSupabaseServerClient();
+  const supabase = createSupabaseAnonClient();
   if (!supabase) return getSeedData().experts;
 
   const { data, error } = await supabase.from("experts").select("*").order("is_featured", { ascending: false }).order("name");
@@ -43,7 +43,7 @@ export async function getExpert(slug: string): Promise<Expert | null> {
 }
 
 export async function getProtocols(): Promise<Protocol[]> {
-  const supabase = await createSupabaseServerClient();
+  const supabase = createSupabaseAnonClient();
   if (!supabase) return getSeedData().protocols;
 
   const { data, error } = await supabase
@@ -76,7 +76,7 @@ export async function getProtocol(slug: string): Promise<Protocol | null> {
 }
 
 export async function getTags(): Promise<TaxonomyTag[]> {
-  const supabase = await createSupabaseServerClient();
+  const supabase = createSupabaseAnonClient();
   if (!supabase) return getSeedData().tags;
 
   const { data, error } = await supabase.from("taxonomy_tags").select("slug,label").order("sort_order");
