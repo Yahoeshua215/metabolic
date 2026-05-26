@@ -12,16 +12,15 @@ export default async function SearchPage({
   const results = query ? await searchKnowledge(query) : [];
 
   return (
-    <div className="mx-auto w-full max-w-4xl px-4 py-10 md:px-6">
-      <div className="space-y-3">
-        <h1 className="text-3xl font-semibold tracking-tight">Search</h1>
-        <p className="text-muted-foreground">
-          Unified results across topics, clips, and protocols.
-        </p>
-      </div>
-      <div className="mt-6">
-        <SearchBar defaultValue={query} />
-      </div>
+    <div className="mx-auto w-full max-w-5xl px-4 py-10 md:px-6">
+      <SearchBar variant="hero" defaultValue={query} />
+      <p className="mt-3 text-sm text-muted-foreground">
+        {query ? (
+          <>Showing answers for <span className="font-medium text-foreground">&quot;{query}&quot;</span></>
+        ) : (
+          <>Ask anything about fasting, insulin, or metabolic health.</>
+        )}
+      </p>
       <div className="mt-8">
         <SearchResults results={results} query={query} />
       </div>

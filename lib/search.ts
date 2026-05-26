@@ -3,7 +3,7 @@ import { getProtocols, getTopics } from "./data";
 import { createSupabaseServerClient } from "./supabase/server";
 import type { SearchResult } from "./types";
 
-export async function searchKnowledge(query: string, limit = 12): Promise<SearchResult[]> {
+export async function searchKnowledge(query: string, limit = 20): Promise<SearchResult[]> {
   const trimmed = query.trim();
   if (!trimmed) return [];
 
@@ -60,7 +60,7 @@ async function localSearch(query: string, limit: number): Promise<SearchResult[]
       slug: clip.id ?? clip.title,
       title: clip.title,
       snippet: clip.transcript_excerpt,
-      url: `/topics/${topic.slug}#clips`,
+      url: clip.url,
       expert_name: clip.expert_name,
       timestamp_start_sec: clip.timestamp_start_sec,
       score: scoreText([clip.title, clip.transcript_excerpt, clip.expert_name ?? "", topic.title].join(" ")),

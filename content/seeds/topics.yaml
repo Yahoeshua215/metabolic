@@ -1,16 +1,33 @@
 - slug: coffee-during-fasting
   title: Coffee During Fasting
   summary: How black coffee, cream, sweeteners, and hunger signals fit into a fasting window.
-  tags: [fasting, glucose-control, cravings]
+  tags:
+    - fasting
+    - glucose-control
+    - cravings
   evidence_level: moderate
-  consensus: Black coffee is generally compatible with a fasting window for most goals, while calories, cream, and sweeteners make the answer more context-dependent.
-  practical_takeaway: If the goal is habit-building or insulin reduction, black coffee is usually acceptable. If the goal is a stricter fast, keep coffee plain and watch whether it triggers cravings.
+  consensus: >-
+    Black coffee is generally compatible with a fasting window for most goals, while calories, cream, and sweeteners
+    make the answer more context-dependent.
+  practical_takeaway: >-
+    If the goal is habit-building or insulin reduction, black coffee is usually acceptable. If the goal is a stricter
+    fast, keep coffee plain and watch whether it triggers cravings.
   sections:
-    overview: Coffee is one of the most common edge cases in fasting because it is not a meal, but it can affect appetite, sleep, and fasting adherence.
-    why_it_matters: The practical issue is less about coffee itself and more about what is added to it and whether it changes hunger, cravings, or glucose response.
-    consensus: Most experts are comfortable with plain coffee during fasting, especially for beginners using fasting as a metabolic-health habit.
-    debate: Stricter voices treat cream, butter, or sweeteners as breaking the fast, while pragmatic voices allow small additions if adherence improves.
-    recommendations: Start with black coffee or unsweetened tea. If adding cream keeps the habit sustainable, treat it as a transition tool rather than a pure fast.
+    overview: >-
+      Coffee is one of the most common edge cases in fasting because it is not a meal, but it can affect appetite,
+      sleep, and fasting adherence.
+    why_it_matters: >-
+      The practical issue is less about coffee itself and more about what is added to it and whether it changes hunger,
+      cravings, or glucose response.
+    consensus: >-
+      Most experts are comfortable with plain coffee during fasting, especially for beginners using fasting as a
+      metabolic-health habit.
+    debate: >-
+      Stricter voices treat cream, butter, or sweeteners as breaking the fast, while pragmatic voices allow small
+      additions if adherence improves.
+    recommendations: >-
+      Start with black coffee or unsweetened tea. If adding cream keeps the habit sustainable, treat it as a transition
+      tool rather than a pure fast.
   positions:
     - expert: jason-fung
       confidence: context_dependent
@@ -25,22 +42,54 @@
       expert: jason-fung
       source_title: Fasting basics discussion
       source_type: youtube
-      source_url: https://www.youtube.com/results?search_query=jason+fung+coffee+fasting
-      timestamp_start_sec: 420
+      source_url: https://www.youtube.com/watch?v=7aRLsCpxy3o
+      timestamp_start_sec: 230
       timestamp_end_sec: 520
-      transcript_excerpt: Plain coffee is usually discussed as acceptable during fasting, while calories and sweeteners depend on the reason for the fast.
+      transcript_excerpt: >-
+        Plain coffee is usually discussed as acceptable during fasting, while calories and sweeteners depend on the
+        reason for the fast.
+    - title: Eric Berg on Coffee During Fasting
+      expert: eric-berg
+      source_title: Eric Berg discussion
+      source_type: youtube
+      source_url: https://www.youtube.com/watch?v=0dC07AKODsk
+      timestamp_start_sec: 0
+      transcript_excerpt: Keeps the fasting window cleaner and avoids taste cues that can trigger cravings.
+    - title: Jason Fung on Coffee During Fasting (interview)
+      expert: jason-fung
+      source_title: Jason Fung interview
+      source_type: youtube
+      source_url: https://www.youtube.com/watch?v=r6vkEIeBj_E
+      timestamp_start_sec: 32
+      transcript_excerpt: >-
+        Plain coffee is usually discussed as acceptable during fasting, while calories and sweeteners depend on the
+        reason for the fast.
+    - title: Eric Berg on Coffee During Fasting (interview)
+      expert: eric-berg
+      source_title: Eric Berg interview
+      source_type: youtube
+      source_url: https://www.youtube.com/watch?v=QMsItnMlhuo
+      timestamp_start_sec: 54
+      transcript_excerpt: Keeps the fasting window cleaner and avoids taste cues that can trigger cravings.
 - slug: artificial-sweeteners
   title: Artificial Sweeteners
   summary: Where metabolic-health experts agree and differ on diet sweeteners, cravings, and transition use.
-  tags: [glucose-control, cravings, insulin-resistance]
+  tags:
+    - glucose-control
+    - cravings
+    - insulin-resistance
   evidence_level: mixed
-  consensus: Non-sugar sweeteners are generally metabolically preferable to sugar, but they may maintain cravings or trigger overeating in some people.
+  consensus: >-
+    Non-sugar sweeteners are generally metabolically preferable to sugar, but they may maintain cravings or trigger
+    overeating in some people.
   practical_takeaway: Use them as a transition tool if they help remove sugar, but avoid making sweet taste a constant habit.
   sections:
     overview: Artificial sweeteners sit between harm reduction and behavioral concern.
     why_it_matters: They can reduce sugar exposure, but taste-driven cravings may undermine long-term behavior change.
     consensus: Most experts agree they are not the same as sugar, and most also agree that individual response matters.
-    debate: The main disagreement is whether they should be treated as acceptable substitutes or avoided to retrain taste preferences.
+    debate: >-
+      The main disagreement is whether they should be treated as acceptable substitutes or avoided to retrain taste
+      preferences.
     recommendations: If cravings stay high, remove them for two weeks and reassess appetite, energy, and adherence.
   positions:
     - expert: jason-fung
@@ -60,16 +109,56 @@
       expert: ben-bikman
       source_title: Insulin resistance Q&A
       source_type: youtube
-      source_url: https://www.youtube.com/results?search_query=ben+bikman+artificial+sweeteners
-      timestamp_start_sec: 600
+      source_url: https://www.youtube.com/watch?v=_DtdDBPpmsM
+      timestamp_start_sec: 226
       timestamp_end_sec: 700
       transcript_excerpt: The core question is whether a sweetener improves adherence or keeps the person anchored to sweet foods.
+    - title: Jason Fung on Artificial Sweeteners
+      expert: jason-fung
+      source_title: Jason Fung discussion
+      source_type: youtube
+      source_url: https://www.youtube.com/watch?v=gpTo5mpLZFw
+      timestamp_start_sec: 155
+      transcript_excerpt: Better than sugar, but not a license for unlimited sweetened products.
+    - title: Eric Berg on Artificial Sweeteners
+      expert: eric-berg
+      source_title: Eric Berg discussion
+      source_type: youtube
+      source_url: https://www.youtube.com/watch?v=zMuu68luxgg
+      timestamp_start_sec: 179
+      transcript_excerpt: Prefers moving away from sweet taste rather than replacing sugar one-for-one.
+    - title: Ben Bikman on Artificial Sweeteners (interview)
+      expert: ben-bikman
+      source_title: Ben Bikman interview
+      source_type: youtube
+      source_url: https://www.youtube.com/watch?v=Zf2XrIteKMw
+      timestamp_start_sec: 1247
+      transcript_excerpt: The core question is whether a sweetener improves adherence or keeps the person anchored to sweet foods.
+    - title: Jason Fung on Artificial Sweeteners (interview)
+      expert: jason-fung
+      source_title: Jason Fung interview
+      source_type: youtube
+      source_url: https://www.youtube.com/watch?v=pSwppRQ0dDQ
+      timestamp_start_sec: 5151
+      transcript_excerpt: Better than sugar, but not a license for unlimited sweetened products.
+    - title: Eric Berg on Artificial Sweeteners (interview)
+      expert: eric-berg
+      source_title: Eric Berg interview
+      source_type: youtube
+      source_url: https://www.youtube.com/watch?v=H7AqABw5-_A
+      timestamp_start_sec: 94
+      transcript_excerpt: Prefers moving away from sweet taste rather than replacing sugar one-for-one.
 - slug: protein-after-50
   title: Protein After 50
   summary: Why protein adequacy, muscle preservation, and resistance training become more important with age.
-  tags: [protein, longevity, muscle-preservation]
+  tags:
+    - protein
+    - longevity
+    - muscle-preservation
   evidence_level: high
-  consensus: Adults over 50 generally need to be more intentional about protein and resistance training to preserve muscle and metabolic resilience.
+  consensus: >-
+    Adults over 50 generally need to be more intentional about protein and resistance training to preserve muscle and
+    metabolic resilience.
   practical_takeaway: Anchor meals around protein, train strength consistently, and avoid aggressive fasting that compromises lean mass.
   sections:
     overview: Protein becomes a healthspan issue because muscle is a metabolic organ and a reserve for aging.
@@ -91,14 +180,38 @@
       expert: peter-attia
       source_title: Longevity and muscle discussion
       source_type: podcast
-      source_url: https://www.youtube.com/results?search_query=peter+attia+protein+after+50
-      timestamp_start_sec: 300
+      source_url: https://www.youtube.com/watch?v=smsblgSCWGo
+      timestamp_start_sec: 154
       timestamp_end_sec: 410
       transcript_excerpt: Preserving muscle mass is repeatedly framed as central to healthspan, glucose disposal, and aging well.
+    - title: Ben Bikman on Protein After 50
+      expert: ben-bikman
+      source_title: Ben Bikman discussion
+      source_type: youtube
+      source_url: https://www.youtube.com/watch?v=BeSTiiK_3Jg
+      timestamp_start_sec: 122
+      transcript_excerpt: Frames protein as a metabolic asset, especially when carbohydrate intake is controlled.
+    - title: Peter Attia on Protein After 50 (interview)
+      expert: peter-attia
+      source_title: Peter Attia interview
+      source_type: youtube
+      source_url: https://www.youtube.com/watch?v=xmovbUC4C2g
+      timestamp_start_sec: 195
+      transcript_excerpt: Preserving muscle mass is repeatedly framed as central to healthspan, glucose disposal, and aging well.
+    - title: Ben Bikman on Protein After 50 (interview)
+      expert: ben-bikman
+      source_title: Ben Bikman interview
+      source_type: youtube
+      source_url: https://www.youtube.com/watch?v=gMyosH19G24
+      timestamp_start_sec: 1111
+      transcript_excerpt: Frames protein as a metabolic asset, especially when carbohydrate intake is controlled.
 - slug: walking-after-meals
   title: Walking After Meals
   summary: A simple post-meal habit that can improve glucose response and energy stability.
-  tags: [exercise-timing, glucose-control, insulin-resistance]
+  tags:
+    - exercise-timing
+    - glucose-control
+    - insulin-resistance
   evidence_level: high
   consensus: Light walking after meals is a low-risk, high-practicality tactic for reducing glucose spikes.
   practical_takeaway: Walk for 10 to 20 minutes after the meal most likely to raise glucose, especially dinner.
@@ -118,27 +231,54 @@
       stance_summary: Mechanistically aligned with glucose uptake by muscle.
       stance_detail: Supports movement as a direct way to improve post-meal glucose handling.
   clips:
-    - title: Movement after meals and glucose curves
+    - title: Glucose Goddess on Walking After Meals (interview)
       expert: glucose-goddess
-      source_title: Glucose hacks overview
+      source_title: Glucose Goddess interview
       source_type: youtube
-      source_url: https://www.youtube.com/results?search_query=glucose+goddess+walking+after+meals
-      timestamp_start_sec: 180
-      timestamp_end_sec: 260
+      source_url: https://www.youtube.com/watch?v=Ks6t6itEo0I
+      timestamp_start_sec: 0
       transcript_excerpt: A short walk after eating is presented as one of the simplest ways to reduce a glucose spike.
+    - title: Ben Bikman on Walking After Meals
+      expert: ben-bikman
+      source_title: Ben Bikman discussion
+      source_type: youtube
+      source_url: https://www.youtube.com/watch?v=gMyosH19G24
+      timestamp_start_sec: 9150
+      transcript_excerpt: Supports movement as a direct way to improve post-meal glucose handling.
+    - title: Glucose Goddess on Walking After Meals (interview)
+      expert: glucose-goddess
+      source_title: Glucose Goddess interview
+      source_type: youtube
+      source_url: https://www.youtube.com/watch?v=pfSpL9yQGic
+      timestamp_start_sec: 0
+      transcript_excerpt: A short walk after eating is presented as one of the simplest ways to reduce a glucose spike.
+    - title: Ben Bikman on Walking After Meals (interview)
+      expert: ben-bikman
+      source_title: Ben Bikman interview
+      source_type: youtube
+      source_url: https://www.youtube.com/watch?v=svm0MrHVYwc
+      timestamp_start_sec: 81
+      transcript_excerpt: Supports movement as a direct way to improve post-meal glucose handling.
 - slug: berberine
   title: Berberine
   summary: What to know about berberine as a supplement for glucose control and insulin sensitivity.
-  tags: [supplements, glucose-control, insulin-resistance]
+  tags:
+    - supplements
+    - glucose-control
+    - insulin-resistance
   evidence_level: moderate
-  consensus: Berberine has promising evidence for glucose and lipid markers, but it should not replace food, movement, sleep, or medical care.
+  consensus: >-
+    Berberine has promising evidence for glucose and lipid markers, but it should not replace food, movement, sleep, or
+    medical care.
   practical_takeaway: Consider only after basics are in place, and discuss medication interactions with a clinician.
   sections:
     overview: Berberine is a plant-derived compound often discussed for glucose and lipid metabolism.
     why_it_matters: People with insulin resistance often search for supplement shortcuts before building durable habits.
     consensus: Experts who discuss berberine generally see it as potentially useful, but secondary.
     debate: Differences center on enthusiasm, dosing, quality, and whether supplement focus distracts from fundamentals.
-    recommendations: Treat berberine as an adjunct, not the plan. Avoid if pregnant, nursing, or on interacting medications unless supervised.
+    recommendations: >-
+      Treat berberine as an adjunct, not the plan. Avoid if pregnant, nursing, or on interacting medications unless
+      supervised.
   positions:
     - expert: mark-hyman
       confidence: context_dependent
@@ -149,20 +289,38 @@
       stance_summary: Fundamentals first.
       stance_detail: Supplements should not substitute for metabolic basics.
   clips:
-    - title: Berberine and metabolic markers
+    - title: Mark Hyman on Berberine (interview)
       expert: mark-hyman
-      source_title: Supplement discussion
+      source_title: Mark Hyman interview
       source_type: youtube
-      source_url: https://www.youtube.com/results?search_query=mark+hyman+berberine
-      timestamp_start_sec: 240
-      timestamp_end_sec: 340
+      source_url: https://www.youtube.com/watch?v=jne6qM-H__c
+      timestamp_start_sec: 1825
       transcript_excerpt: Berberine is usually framed as a targeted supplement, not a replacement for foundational nutrition.
+    - title: Eric Berg on Berberine (interview)
+      expert: eric-berg
+      source_title: Eric Berg interview
+      source_type: youtube
+      source_url: https://www.youtube.com/watch?v=8qJzaHuhsX4
+      timestamp_start_sec: 0
+      transcript_excerpt: Supplements should not substitute for metabolic basics.
+    - title: Eric Berg on Berberine (interview)
+      expert: eric-berg
+      source_title: Eric Berg interview
+      source_type: youtube
+      source_url: https://www.youtube.com/watch?v=QX6gCRJZ0dk
+      timestamp_start_sec: 212
+      transcript_excerpt: Supplements should not substitute for metabolic basics.
 - slug: seed-oils
   title: Seed Oils
   summary: Why seed oils are debated, where experts agree, and what a practical reduction strategy looks like.
-  tags: [seed-oils, inflammation, meal-timing]
+  tags:
+    - seed-oils
+    - inflammation
+    - meal-timing
   evidence_level: mixed
-  consensus: Most curated experts prefer minimally processed fats and fewer ultra-processed foods, even when they differ on seed-oil mechanisms.
+  consensus: >-
+    Most curated experts prefer minimally processed fats and fewer ultra-processed foods, even when they differ on
+    seed-oil mechanisms.
   practical_takeaway: Reduce ultra-processed foods first, cook with stable traditional fats, and avoid making the topic tribal.
   sections:
     overview: Seed oils are often discussed as either a primary inflammatory driver or a marker of processed-food exposure.
@@ -184,14 +342,38 @@
       expert: mark-hyman
       source_title: Food quality discussion
       source_type: youtube
-      source_url: https://www.youtube.com/results?search_query=mark+hyman+seed+oils
-      timestamp_start_sec: 520
+      source_url: https://www.youtube.com/watch?v=CVACyQgN3ls
+      timestamp_start_sec: 21
       timestamp_end_sec: 650
       transcript_excerpt: The practical advice commonly centers on reducing ultra-processed foods and choosing better cooking fats.
+    - title: Mark Hyman on Seed Oils (interview)
+      expert: mark-hyman
+      source_title: Mark Hyman interview
+      source_type: youtube
+      source_url: https://www.youtube.com/watch?v=MZ6wBfkLaMM
+      timestamp_start_sec: 119
+      transcript_excerpt: The practical advice commonly centers on reducing ultra-processed foods and choosing better cooking fats.
+    - title: Peter Attia on Seed Oils (interview)
+      expert: peter-attia
+      source_title: Peter Attia interview
+      source_type: youtube
+      source_url: https://www.youtube.com/watch?v=Tsqzx3L6UWs
+      timestamp_start_sec: 452
+      transcript_excerpt: Focuses on outcome evidence and overall dietary pattern.
+    - title: Peter Attia on Seed Oils (interview)
+      expert: peter-attia
+      source_title: Peter Attia interview
+      source_type: youtube
+      source_url: https://www.youtube.com/watch?v=iB49uq-t1UM
+      timestamp_start_sec: 329
+      transcript_excerpt: Focuses on outcome evidence and overall dietary pattern.
 - slug: cgms
   title: Continuous Glucose Monitors
   summary: How CGMs can help learning while also creating noise or anxiety for people without diabetes.
-  tags: [glucose-control, insulin-resistance, longevity]
+  tags:
+    - glucose-control
+    - insulin-resistance
+    - longevity
   evidence_level: moderate
   consensus: CGMs can be useful learning tools, but data needs context and should not become obsessive.
   practical_takeaway: Use a CGM as a short learning experiment, not as a permanent scorecard unless medically indicated.
@@ -215,17 +397,41 @@
       expert: glucose-goddess
       source_title: Glucose monitoring overview
       source_type: youtube
-      source_url: https://www.youtube.com/results?search_query=glucose+goddess+continuous+glucose+monitor
-      timestamp_start_sec: 150
+      source_url: https://www.youtube.com/watch?v=NmI6iPDfo6g
+      timestamp_start_sec: 129
       timestamp_end_sec: 250
       transcript_excerpt: Seeing glucose curves can help people understand which habits flatten or amplify their response.
+    - title: Peter Attia on Continuous Glucose Monitors
+      expert: peter-attia
+      source_title: Peter Attia discussion
+      source_type: youtube
+      source_url: https://www.youtube.com/watch?v=ipHL5xbHs_s
+      timestamp_start_sec: 158
+      transcript_excerpt: Avoids treating glucose as the only healthspan signal.
+    - title: Glucose Goddess on Continuous Glucose Monitors (interview)
+      expert: glucose-goddess
+      source_title: Glucose Goddess interview
+      source_type: youtube
+      source_url: https://www.youtube.com/watch?v=3esF-pNAM9c
+      timestamp_start_sec: 4086
+      transcript_excerpt: Seeing glucose curves can help people understand which habits flatten or amplify their response.
+    - title: Peter Attia on Continuous Glucose Monitors (interview)
+      expert: peter-attia
+      source_title: Peter Attia interview
+      source_type: youtube
+      source_url: https://www.youtube.com/watch?v=ZapXw377t5s
+      timestamp_start_sec: 2
+      transcript_excerpt: Avoids treating glucose as the only healthspan signal.
 - slug: beginner-fasting
   title: Beginner Fasting
   summary: A non-extreme way to begin fasting without turning it into a willpower contest.
-  tags: [fasting, insulin-resistance, meal-timing]
+  tags:
+    - fasting
+    - insulin-resistance
+    - meal-timing
   evidence_level: moderate
   consensus: Beginners usually do best by shortening the eating window gradually and keeping meals nutrient-dense.
-  practical_takeaway: "Start with no snacking after dinner, then try 12:12 or 14:10 before longer fasts."
+  practical_takeaway: Start with no snacking after dinner, then try 12:12 or 14:10 before longer fasts.
   sections:
     overview: Beginner fasting is about rhythm, consistency, and reducing constant insulin stimulation.
     why_it_matters: Many people fail when they jump to aggressive fasts without enough protein, minerals, or sleep.
@@ -246,17 +452,44 @@
       expert: pradip-jamnadas
       source_title: Fasting for survival overview
       source_type: youtube
-      source_url: https://www.youtube.com/results?search_query=pradip+jamnadas+beginner+fasting
-      timestamp_start_sec: 90
+      source_url: https://www.youtube.com/watch?v=qw8wMELZ5dI
+      timestamp_start_sec: 350
       timestamp_end_sec: 180
       transcript_excerpt: Fasting is framed as a metabolic intervention that should be approached with context and fundamentals.
+    - title: Jason Fung on Beginner Fasting
+      expert: jason-fung
+      source_title: Jason Fung discussion
+      source_type: youtube
+      source_url: https://www.youtube.com/watch?v=jqZsS03dlPk
+      timestamp_start_sec: 396
+      transcript_excerpt: Would typically progress based on goals and tolerance.
+    - title: Pradip Jamnadas on Beginner Fasting (interview)
+      expert: pradip-jamnadas
+      source_title: Pradip Jamnadas interview
+      source_type: youtube
+      source_url: https://www.youtube.com/watch?v=nDJHQz2JHeA
+      timestamp_start_sec: 0
+      transcript_excerpt: Fasting is framed as a metabolic intervention that should be approached with context and fundamentals.
+    - title: Jason Fung on Beginner Fasting (interview)
+      expert: jason-fung
+      source_title: Jason Fung interview
+      source_type: youtube
+      source_url: https://www.youtube.com/watch?v=LZ8ihAntvbI
+      timestamp_start_sec: 872
+      transcript_excerpt: Would typically progress based on goals and tolerance.
 - slug: insulin-sensitivity
   title: Improving Insulin Sensitivity
   summary: The core levers that repeatedly appear across metabolic-health experts.
-  tags: [insulin-resistance, glucose-control, exercise-timing, sleep]
+  tags:
+    - insulin-resistance
+    - glucose-control
+    - exercise-timing
+    - sleep
   evidence_level: high
   consensus: Food quality, strength training, walking, sleep, and meal timing are the main repeatable levers.
-  practical_takeaway: "Do not chase novelty. Build the four basics — protein-forward meals, fewer refined carbs, post-meal walking, and strength training."
+  practical_takeaway: >-
+    Do not chase novelty. Build the four basics — protein-forward meals, fewer refined carbs, post-meal walking, and
+    strength training.
   sections:
     overview: Insulin sensitivity describes how effectively cells respond to insulin and handle energy.
     why_it_matters: Poor insulin sensitivity is linked to higher glucose, cravings, fatty liver, and cardiometabolic risk.
@@ -277,14 +510,25 @@
       expert: ben-bikman
       source_title: Why we get sick discussion
       source_type: youtube
-      source_url: https://www.youtube.com/results?search_query=ben+bikman+insulin+resistance
-      timestamp_start_sec: 210
+      source_url: https://www.youtube.com/watch?v=gMyosH19G24
+      timestamp_start_sec: 184
       timestamp_end_sec: 330
+      transcript_excerpt: Insulin resistance is explained as a central driver connecting glucose, fat storage, and metabolic dysfunction.
+    - title: Ben Bikman on Improving Insulin Sensitivity (interview)
+      expert: ben-bikman
+      source_title: Ben Bikman interview
+      source_type: youtube
+      source_url: https://www.youtube.com/watch?v=svm0MrHVYwc
+      timestamp_start_sec: 174
       transcript_excerpt: Insulin resistance is explained as a central driver connecting glucose, fat storage, and metabolic dysfunction.
 - slug: reducing-cravings
   title: Reducing Cravings
   summary: A practical synthesis of sleep, protein, glucose stability, sweet taste, and meal timing.
-  tags: [cravings, protein, glucose-control, sleep]
+  tags:
+    - cravings
+    - protein
+    - glucose-control
+    - sleep
   evidence_level: moderate
   consensus: Cravings often improve when meals contain enough protein, sleep is protected, and glucose swings are reduced.
   practical_takeaway: Before blaming willpower, fix breakfast protein, sleep debt, and sweet snacks for two weeks.
@@ -308,23 +552,38 @@
       expert: glucose-goddess
       source_title: Glucose and cravings overview
       source_type: youtube
-      source_url: https://www.youtube.com/results?search_query=glucose+goddess+cravings
-      timestamp_start_sec: 260
+      source_url: https://www.youtube.com/watch?v=J6KHmymKE9M
+      timestamp_start_sec: 407
       timestamp_end_sec: 360
+      transcript_excerpt: Glucose spikes and dips are presented as one possible driver of hunger and cravings.
+    - title: Glucose Goddess on Reducing Cravings (interview)
+      expert: glucose-goddess
+      source_title: Glucose Goddess interview
+      source_type: youtube
+      source_url: https://www.youtube.com/watch?v=3esF-pNAM9c
+      timestamp_start_sec: 3234
       transcript_excerpt: Glucose spikes and dips are presented as one possible driver of hunger and cravings.
 - slug: healthy-aging
   title: Healthy Aging
   summary: The overlap between metabolic health, muscle, sleep, inflammation, and long-term function.
-  tags: [longevity, muscle-preservation, sleep, inflammation]
+  tags:
+    - longevity
+    - muscle-preservation
+    - sleep
+    - inflammation
   evidence_level: high
   consensus: Healthy aging depends on preserving muscle, metabolic flexibility, sleep quality, and cardiovascular risk control.
-  practical_takeaway: "Build boring compounding habits — strength training, protein, walking, sleep, and lower processed-food intake."
+  practical_takeaway: Build boring compounding habits — strength training, protein, walking, sleep, and lower processed-food intake.
   sections:
     overview: Healthy aging is less about hacks and more about preserving function and reducing risk over decades.
     why_it_matters: Metabolic dysfunction accelerates many diseases of aging and reduces quality of life.
     consensus: Most expert disagreement is around optimization, not the fundamentals.
-    debate: Longevity experts may prioritize metrics and training, while fasting-focused experts prioritize insulin and meal timing.
-    recommendations: Track strength, waist, sleep, blood pressure, lipids, and glucose trends instead of chasing every new intervention.
+    debate: >-
+      Longevity experts may prioritize metrics and training, while fasting-focused experts prioritize insulin and meal
+      timing.
+    recommendations: >-
+      Track strength, waist, sleep, blood pressure, lipids, and glucose trends instead of chasing every new
+      intervention.
   positions:
     - expert: peter-attia
       confidence: agrees
@@ -339,7 +598,28 @@
       expert: peter-attia
       source_title: Healthspan framework
       source_type: podcast
-      source_url: https://www.youtube.com/results?search_query=peter+attia+healthspan+muscle+metabolic+health
-      timestamp_start_sec: 480
+      source_url: https://www.youtube.com/watch?v=p8QCOK1ASuk
+      timestamp_start_sec: 410
       timestamp_end_sec: 600
       transcript_excerpt: Healthspan is discussed as preserving function and reducing risk long before disease appears.
+    - title: Mark Hyman on Healthy Aging
+      expert: mark-hyman
+      source_title: Mark Hyman discussion
+      source_type: youtube
+      source_url: https://www.youtube.com/watch?v=Qh312xJWK2k
+      timestamp_start_sec: 656
+      transcript_excerpt: Emphasizes whole foods and lifestyle medicine.
+    - title: Peter Attia on Healthy Aging (interview)
+      expert: peter-attia
+      source_title: Peter Attia interview
+      source_type: youtube
+      source_url: https://www.youtube.com/watch?v=sAWnYi4xf5g
+      timestamp_start_sec: 292
+      transcript_excerpt: Healthspan is discussed as preserving function and reducing risk long before disease appears.
+    - title: Mark Hyman on Healthy Aging (interview)
+      expert: mark-hyman
+      source_title: Mark Hyman interview
+      source_type: youtube
+      source_url: https://www.youtube.com/watch?v=6w0uvlWwEOk
+      timestamp_start_sec: 17
+      transcript_excerpt: Emphasizes whole foods and lifestyle medicine.

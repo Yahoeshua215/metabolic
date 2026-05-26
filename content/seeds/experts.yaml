@@ -14,6 +14,14 @@
   philosophy_summary_md: Emphasizes whole foods, insulin control, stress, and metabolic flexibility.
   fasting_position_md: Supportive of intermittent fasting and longer fasts when gradually adopted.
   supplement_position_md: Cautious; prefers fundamentals before supplement stacks.
+- slug: eric-berg
+  name: Eric Berg
+  title: Chiropractor and metabolic-health educator
+  is_featured: true
+  major_themes: [ketogenic eating, intermittent fasting, insulin resistance]
+  philosophy_summary_md: Focuses on lowering insulin via low-carb/ketogenic eating, fasting, and nutrient-dense foods.
+  fasting_position_md: Strongly supportive of intermittent fasting and longer fasts paired with low-carb eating.
+  supplement_position_md: Open to targeted supplementation (e.g., minerals, B vitamins) supporting low-carb adaptation.
 - slug: pradip-jamnadas
   name: Pradip Jamnadas
   title: Cardiologist
